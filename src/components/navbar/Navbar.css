@@ -1,0 +1,30 @@
+.navbar-presenting{
+    width: 99.3%;
+    background-color: #4d4c4c;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    display: flex;
+}
+.share-screen-logo{
+    height: 35px;
+}
+.presenter-name{
+    margin:auto 10px;
+}
+.stop-prenting-btn{
+    border: none;
+    padding: 10px 25px;
+    margin: 5px 10px;
+    border-radius: 20px;
+    background-color: #99ccff;
+    color: #00264d;
+    font-weight: bold;
+    box-shadow: 0 0 3px 0.06px #99ccff;
+}
