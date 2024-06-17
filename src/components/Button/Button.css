@@ -1,0 +1,18 @@
+
+.icon-img{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: white;
+    margin: 0 10px;
+}
+.icon-img-blur{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: white;
+    margin: 0 10px;
+    background-color: #4d4c4c;;
+}

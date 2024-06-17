@@ -1,0 +1,22 @@
+.card{
+    padding: 10px;
+    height: 150px;
+    width: 150px;
+    background-color: #4d4c4c;
+    border-radius: 10px;
+    margin: 10px;
+    position: relative;
+    color:white;
+}
+.student-name{
+    position: absolute;
+    bottom: 10px;
+}
+.student-img{
+    position:absolute;
+    top:14%;
+    left: 14%;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}

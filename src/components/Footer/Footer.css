@@ -1,0 +1,14 @@
+.footer{
+   position: fixed;
+   bottom: 10px;
+   width: 95%;
+   display: flex;
+   justify-content: space-between;
+   padding: 15px;
+   font-size: 20px;
+   color: white;
+}
+.middle-side {
+   display:flex;
+   justify-content: space-between;
+}
