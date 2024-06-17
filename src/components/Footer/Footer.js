@@ -21,7 +21,7 @@ function Footer() {
           <ButtonBlur icon_btn={HandImg}/>
           <Button icon_btn={CallCut}/>
         </div>
-        <div className="middle-side">kunal</div>
+        <div className="middle-side"></div>
     </div>
   )
 }

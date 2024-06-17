@@ -1,12 +1,13 @@
 import React from 'react'
 import "./Cards.css"
-import VaishnaviImg from "./Student_img/Vaishnavi.jpeg";
 
-function Cards({StudentName}) {
+
+function Cards({StudentName ,StudentImg}) {
   return (
     <div className="card">
         <div className='student-name'>{StudentName}</div>
-        <div className='student-img'><img src={VaishnaviImg} className="student-img"/></div>
+        <div className='student-img'><img src={StudentImg} className="student-img"/></div>
+        <div className='mic-img'><img src="https://www.svgrepo.com/show/327437/mic-off-circle.svg" className='mic-img'/></div>
     </div>
   )
 }

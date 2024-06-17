@@ -20,3 +20,12 @@
     height: 90px;
     width: 90px;
 }
+.mic-img{
+    position: absolute;
+    left: 65%;
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: #4d4c4c;
+}
